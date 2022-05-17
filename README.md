@@ -1,5 +1,5 @@
 # ttvpoints
-Just helping a few friends to use https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2 on Heroku.
+Just helping a few friends to use https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2 with Heroku.
 
 `heroku login`
 
@@ -14,3 +14,5 @@ Just helping a few friends to use https://github.com/Tkd-Alex/Twitch-Channel-Poi
 `git commit -am "-"`
 
 `git push heroku master`
+
+Use https://kaffeine.herokuapp.com/ so it never goes iddle.
